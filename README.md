@@ -38,6 +38,14 @@
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/gimhana-deshapriya/
 
+[![Contributors](https://img.shields.io/github/contributors/GimhanD7/GimhanD7.svg?style=flat-square)](https://github.com/GimhanD7/GimhanD7/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/GimhanD7/GimhanD7.svg?style=flat-square)](https://github.com/GimhanD7/GimhanD7/network/members)
+[![Stars](https://img.shields.io/github/stars/GimhanD7/GimhanD7.svg?style=flat-square)](https://github.com/GimhanD7/GimhanD7/stargazers)
+[![Issues](https://img.shields.io/github/issues/GimhanD7/GimhanD7.svg?style=flat-square)](https://github.com/GimhanD7/GimhanD7/issues)
+[![License](https://img.shields.io/github/license/GimhanD7/GimhanD7.svg?style=flat-square)](https://github.com/GimhanD7/GimhanD7/blob/master/LICENSE.txt)
+![Commit Activity](https://img.shields.io/github/commit-activity/y/GimhanD7/GimhanD7.svg?style=flat-square)
+![Repository Count](https://img.shields.io/badge/dynamic/json?label=repositories&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyour-username)
+![Activity Status](https://img.shields.io/endpoint?url=https://www.your-activity-status-url.com)
 
 
 
