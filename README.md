@@ -44,7 +44,7 @@
 [![Issues](https://img.shields.io/github/issues/GimhanD7/GimhanD7.svg?style=flat-square)](https://github.com/GimhanD7/GimhanD7/issues)
 [![License](https://img.shields.io/github/license/GimhanD7/GimhanD7.svg?style=flat-square)](https://github.com/GimhanD7/GimhanD7/blob/master/LICENSE.txt)
 ![Commit Activity](https://img.shields.io/github/commit-activity/y/GimhanD7/GimhanD7.svg?style=flat-square)
-![Repository Count](https://img.shields.io/badge/dynamic/json?label=repositories&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyour-username)
+![Repository Count](https://img.shields.io/badge/dynamic/json?label=repositories&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fusers%2FGimhanD7)
 ![Activity Status](https://img.shields.io/endpoint?url=https://www.your-activity-status-url.com)
 
 
