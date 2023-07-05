@@ -9,11 +9,6 @@
 -->
 
 
-GET /repos/{GimhanD7}/{GimhanD7}/contributors
-<!-- https://img.shields.io/badge/Contributions-{count}-blue?style=flat-square -->
-## Contributions
-
-![Contributions](https://img.shields.io/badge/Contributions-{/repos/{GimhanD7}/{GimhanD7}/contributors}-blue?style=flat-square)
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -29,9 +24,8 @@ GET /repos/{GimhanD7}/{GimhanD7}/contributors
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 ![Commit Count][Commit-shield]
-## Contributions
 
-Total Contributions: [![Contributions](https://img.shields.io/github/commit-activity/m/GimhanD7/GimhanD7.svg?style=flat-square)](https://github.com/GimhanD7/GimhanD7/graphs/contributors)
+
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/GimhanD7/GimhanD7.svg?style=for-the-badge
