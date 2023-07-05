@@ -24,7 +24,7 @@
 [![Issues][issues-shield]][issues-url]
 [![License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-![Commit Count](https://img.shields.io/github/commit-activity/y/GimhanD7/GimhanD7.svg?style=for-the-badge)
+![Commit Count][Commit-shield]
 ![Repository Count](https://img.shields.io/badge/dynamic/json?label=repositories&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fusers%2FGimhanD7)
 ![Activity Status](https://img.shields.io/endpoint?url=https://www.your-activity-status-url.com)
 
@@ -39,6 +39,7 @@
 [license-shield]: https://img.shields.io/github/license/GimhanD7/GimhanD7.svg?style=for-the-badge
 [license-url]: https://github.com/GimhanD7/GimhanD7/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[Commit-shield]:https://img.shields.io/github/commit-activity/y/GimhanD7/GimhanD7.svg?style=for-the-badge
 [linkedin-url]: https://linkedin.com/in/yourname
 
 
