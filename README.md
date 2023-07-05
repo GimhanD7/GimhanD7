@@ -9,6 +9,11 @@
 -->
 
 
+GET /repos/{GimhanD7}/{GimhanD7}/contributors
+https://img.shields.io/badge/Contributions-{count}-blue?style=flat-square
+## Contributions
+
+Total Contributions: ![Contributions](https://img.shields.io/badge/Contributions-{count}-blue?style=flat-square)
 
 <!-- PROJECT SHIELDS -->
 <!--
