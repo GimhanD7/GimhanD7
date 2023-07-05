@@ -56,11 +56,11 @@
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 <table>
-  <tr>
+  <!-- <tr>
     <th>Frontend</th>
     <th>Backend</th>
     <th>Tools</th>
-  </tr>
+  </tr> -->
   <tr>
     <td>
       <ul class="horizontal-list">
