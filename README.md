@@ -72,7 +72,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<style>
+<!-- <style>
   .horizontal-list {
     list-style: none;
     padding: 0;
@@ -89,7 +89,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
   .horizontal-list li:last-child {
     margin-right: 0;
   }
-</style>
+</style> -->
 
 ### Built With
 
