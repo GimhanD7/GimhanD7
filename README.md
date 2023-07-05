@@ -25,8 +25,7 @@
 [![License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 ![Commit Count][Commit-shield]
-![Repository Count](https://img.shields.io/badge/dynamic/json?label=repositories&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fusers%2FGimhanD7)
-![Activity Status](https://img.shields.io/endpoint?url=https://www.your-activity-status-url.com)
+
 
 [contributors-shield]: https://img.shields.io/github/contributors/GimhanD7/GimhanD7.svg?style=for-the-badge
 [contributors-url]: https://github.com/GimhanD7/GimhanD7/graphs/contributors
