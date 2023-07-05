@@ -25,16 +25,16 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-[contributors-shield]: https://img.shields.io/github/contributors/your-username/your-repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/your-username/your-repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/your-username/your-repo.svg?style=for-the-badge
-[forks-url]: https://github.com/your-username/your-repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/your-username/your-repo.svg?style=for-the-badge
-[stars-url]: https://github.com/your-username/your-repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/your-username/your-repo.svg?style=for-the-badge
-[issues-url]: https://github.com/your-username/your-repo/issues
-[license-shield]: https://img.shields.io/github/license/your-username/your-repo.svg?style=for-the-badge
-[license-url]: https://github.com/your-username/your-repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/GimhanD7/GimhanD7.svg?style=for-the-badge
+[contributors-url]: https://github.com/GimhanD7/GimhanD7/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/GimhanD7/GimhanD7.svg?style=for-the-badge
+[forks-url]: https://github.com/GimhanD7/GimhanD7/network/members
+[stars-shield]: https://img.shields.io/github/stars/GimhanD7/GimhanD7.svg?style=for-the-badge
+[stars-url]: https://github.com/GimhanD7/GimhanD7/stargazers
+[issues-shield]: https://img.shields.io/github/issues/GimhanD7/GimhanD7.svg?style=for-the-badge
+[issues-url]: https://github.com/GimhanD7/GimhanD7/issues
+[license-shield]: https://img.shields.io/github/license/GimhanD7/GimhanD7.svg?style=for-the-badge
+[license-url]: https://github.com/GimhanD7/GimhanD7/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/yourname
 
