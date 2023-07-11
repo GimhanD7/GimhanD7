@@ -113,7 +113,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 
 
-
+<!-- 
 <!-- CONTACT -->
 ## Contact
 
@@ -121,7 +121,7 @@ Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.c
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 
