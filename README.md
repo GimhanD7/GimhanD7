@@ -40,7 +40,7 @@
 [license-url]: https://github.com/GimhanD7/GimhanD7/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [Commit-shield]:https://img.shields.io/github/commit-activity/y/GimhanD7/GimhanD7.svg?style=for-the-badge
-[linkedin-url]: https://linkedin.com/in/yourname
+[linkedin-url]: https://linkedin.com/in/gimhana-deshapriya/
 
 
 
